@@ -47,6 +47,13 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        wellness: {
+          sage: "hsl(var(--wellness-sage))",
+          warm: "hsl(var(--wellness-warm))",
+          earth: "hsl(var(--wellness-earth))",
+          saffron: "hsl(var(--healing-saffron))",
+          mint: "hsl(var(--calm-mint))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
